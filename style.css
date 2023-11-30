@@ -1,0 +1,48 @@
+header {
+    background-color: #9CEAEF;
+    padding:20px;
+}
+header img {
+    border-radius: 3px;
+    width: 129px;
+    height: 150px;
+}
+header a {
+    color: #00B4D8;
+    background-color: white;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 84px;
+    padding: 7px;
+    margin: 30px;
+    text-align: center;
+}
+header p {
+    text-align: center;
+}
+h1 {
+    background-color: #7BDFF2;
+    text-align:center;
+    color: white;
+}
+h2 {
+    background-color: #7BDFF2;
+    color: white;
+}
+main p {
+    color: #00B4D8;
+}
+footer {
+    background-color: #9CEAEF;
+}
+footer p {
+    color: #00B4D8;
+    background-color: white;
+    font-size: 15px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 84px;
+    padding: 5px;
+    margin: 10px;
+}
